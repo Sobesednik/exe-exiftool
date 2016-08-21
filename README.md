@@ -1,4 +1,4 @@
-# exe-exiftool
+# exiftool.exe
 A distribution of _exiftool.exe_. Current version is 10.25.
 
 [![npm version](https://badge.fury.io/js/exiftool.exe.svg)](https://badge.fury.io/js/exiftool.exe)
