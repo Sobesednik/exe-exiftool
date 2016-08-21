@@ -1,6 +1,6 @@
 {
   "name": "exiftool.exe",
-  "version": "10.25.2",
+  "version": "10.25.3",
   "description": "A distribution of exiftool.exe",
   "main": "index.js",
   "scripts": {
