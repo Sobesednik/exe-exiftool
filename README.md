@@ -6,7 +6,7 @@ A distribution of _exiftool.exe_. Current version is 10.53.
 
 You might also be interested in [dist-exiftool](https://www.npmjs.com/package/dist-exiftool)
 which will install an appropriate version of exiftool depending on the platform, and
-[exiftool.pl](https://www.npmjs.com/package/exiftool.exe) for non-Windows platforms.
+[exiftool.pl](https://www.npmjs.com/package/exiftool.pl) for non-Windows platforms.
 
 ## Usage
 The module exports a path to the exiftool Windows executable.
