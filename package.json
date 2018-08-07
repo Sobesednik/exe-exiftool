@@ -1,11 +1,11 @@
 {
   "name": "exiftool.exe",
-  "version": "10.53.0",
+  "version": "10.81.0",
   "description": "A distribution of exiftool.exe",
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
-    "download": "curl -L http://downloads.sourceforge.net/project/exiftool/exiftool-10.53.zip -o exiftool-10.53.zip; unzip exiftool-10.53.zip -d vendor; rm exiftool-10.53.zip; mv vendor/exiftool\\(-k\\).exe vendor/exiftool.exe"
+    "download": "curl -L http://downloads.sourceforge.net/project/exiftool/exiftool-10.81.zip -o exiftool-10.81.zip; unzip exiftool-10.81.zip -d vendor; rm exiftool-10.81.zip; mv vendor/exiftool\\(-k\\).exe vendor/exiftool.exe"
   },
   "repository": {
     "type": "git",
